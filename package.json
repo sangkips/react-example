@@ -36,6 +36,6 @@
     ]
   },
   "release": {
-    "branches": ["main", "next"]
+    "branches": ["main"]
   }
 }

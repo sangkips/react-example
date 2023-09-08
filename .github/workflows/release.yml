@@ -26,7 +26,6 @@ jobs:
         with:
           node-version: 18
           cache: 'npm'
-      - run: npm ci
       - name: Install dependencies
         run: npm clean-install
       - name: Verify the integrity
